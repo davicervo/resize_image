@@ -2,5 +2,6 @@
 Resize image
 
 # Precisa instalar
-php composer.phar require intervention/image
+composer require illuminate/http
+composer require intervention/image
 
